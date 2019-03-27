@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+
+    <string name="bulbasaur_name">Bulbasaur</string>
+    <string name="charmander_name">Charmander</string>
+    <string name="squirtle_name">Squirtle</string>
+    <string name="pikachu_name">Pikachu</string>
+    <string name="cubone_name">Cubone</string>
+    <string name="gengar_name">Gengar</string>
+    <string name="eevee_name">Eevee</string>
+    <string name="meowth_name">Meowth</string>
+    <string name="oddish_name">Oddish</string>
+    <string name="vulpix_name">Vulpix</string>
+
+    <string name="bulbasaur_type">grass</string>
+    <string name="charmander_type">fire</string>
+    <string name="squirtle_type">water</string>
+    <string name="pikachu_type">electric</string>
+    <string name="cubone_type">ground</string>
+    <string name="gengar_type">ghost</string>
+    <string name="oddish_type">grass</string>
+    <string name="meowth_type">normal</string>
+    <string name="eevee_type">normal</string>
+    <string name="vulpix_type">fire</string>
+
+
+
+</resources>
